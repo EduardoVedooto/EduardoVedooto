@@ -5,7 +5,7 @@ I'm Eduardo, an aspirant in fullstack web developer who loves to be up to date a
 - 🎓 I'm an undergraduate computer science student at UFSM (Universidade Federal de Santa Maria)
 - 📚 I'm currently learning Typescript
 - 👦 Pronouns: He/His/Him
-- 📧 My E-mail: [here](mailto:vedootoeduardo@gmail.com "Send me a question")
+- 📧 My E-mail: [here](mailto:vedootoeduardo@gmail.com "Feel free to contact me")
 
 <div align="center">
   <h2>Languages e tools 🛠</h2>
