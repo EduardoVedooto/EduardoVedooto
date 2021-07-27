@@ -30,7 +30,7 @@ I'm Eduardo, an aspirant in fullstack web developer who loves to be up to date a
 <h2 align="center">My github stats 📊<h2>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" width:"400px" src="https://github-readme-stats.vercel.app/api?username=EduardoVedooto&show_icons=true&hide_border=true&theme=nord&bg_color=22272E" alt="Github Stats"/>
+    <img height="200px" width:"350px" src="https://github-readme-stats.vercel.app/api?username=EduardoVedooto&show_icons=true&hide_border=true&theme=nord&bg_color=22272E" alt="Github Stats"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
