@@ -34,7 +34,7 @@ I'm Eduardo, an aspirant in fullstack web developer who loves to be up to date a
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVedooto&layout=compact&hide_border=true&theme=nord&bg_color=22272E" alt="Languages" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVedooto&layout=compact&hide_border=true&theme=nord&bg_color=22272E&card_width=250" alt="Languages" />
   </a>
 </div>
 
