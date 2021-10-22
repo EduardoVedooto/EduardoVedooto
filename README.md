@@ -1,6 +1,6 @@
 <h1 align="center">Hi, nice to have you here 😃</h1>
 
-I'm Eduardo, an aspirant in fullstack web developer who loves to be up to date about new technologies and tools to improve my skills and acquire new ones. 
+I'm Eduardo, a fullstack web developer who loves to be up to date about new technologies and tools to improve my skills and acquire new ones. 
 
 - 🎓 I'm an undergraduate computer science student at UFSM (Universidade Federal de Santa Maria)
 - 📚 I'm currently learning Typescript
