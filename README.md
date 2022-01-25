@@ -44,7 +44,7 @@ I'm Eduardo, a fullstack web developer who loves to be up to date about new tech
     <img height="25px" src="https://img.shields.io/badge/-Linkedin-&?style=flat-square&logo=linkedin&color=0073B1&labelColor=0073B1&logoColor=white" alt="Linkedin logo" />
   </a>
   <a href="https://www.instagram.com/ervedooto/">
-    <img height="25px" src="https://img.shields.io/badge/-Instgram-&?style=flat-square&logo=instagram&color=D10063&labelColor=D10063&logoColor=white" alt="Instagram logo" />
+    <img height="25px" src="https://img.shields.io/badge/-Instagram-&?style=flat-square&logo=instagram&color=D10063&labelColor=D10063&logoColor=white" alt="Instagram logo" />
   </a>   
   <a href="https://www.facebook.com/EduardoVedooto">
     <img height="25px" src="https://img.shields.io/badge/-Facebook-&?style=flat-square&logo=facebook&color=4267B2&labelColor=4267B2&logoColor=white" alt="Facebook logo" />
