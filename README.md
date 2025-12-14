@@ -1,67 +1,129 @@
-<h1 align="center">Hi, nice to have you here 😃</h1>
+<h1 align="center">Eduardo</h1>
+<h2 align="center">Fullstack Web Developer</h2>
 
-I'm Eduardo, a fullstack web developer who loves to be up to date about new technologies and tools to improve my skills and acquire new ones. 
+Sou um desenvolvedor web fullstack que ama tecnologia e gosta bastante de estar atualizado sobre tudo que está em alta na área de programação. Também gosto bastante de jogos e gatos 🕹️🐈
 
-- 🎓 I'm an undergraduate computer science student at UFSM (Universidade Federal de Santa Maria)
-- 📚 I'm currently learning Typescript
-- 👦 Pronouns: He/His/Him
-- 📧 My E-mail: [here](mailto:vedootoeduardo@gmail.com "Feel free to contact me")
+- 🎓 **Análise e Desenvolvimento de Sistemas**
+- 📚 **Atualmente estudando:** Kotlin
+- 👦 **Pronomes:** Ele/Dele
+- 📧 **Contato:** [vedootoeduardo@gmail.com](mailto:vedootoeduardo@gmail.com)
 
-<div align="center">
-  <h2>Languages e tools 🛠</h2>
-  <img src="https://img.shields.io/badge/-react-&?style=for-the-badge&logo=react&color=black" alt="React logo" />
-  <img src="https://img.shields.io/badge/-Typescript-&?style=for-the-badge&logo=typescript&color=black" alt="React logo" />
-  <img src="https://img.shields.io/badge/-Javascript-&?style=for-the-badge&logo=javascript&color=black" alt="Javascript logo" />
-  <img src="https://img.shields.io/badge/-HTML-&?style=for-the-badge&logo=html5&color=black" alt="HTML logo" />
-  <img src="https://img.shields.io/badge/-CSS-&?style=for-the-badge&logo=css3&color=black" alt="CSS logo" />
-  <img src="https://img.shields.io/badge/-NodeJS-&?style=for-the-badge&logo=nodedotjs&color=black" alt="Node logo" />
-  <img src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black" alt="Jest logo" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-&?style=for-the-badge&logo=postgresql&color=black" alt="Postgres logo" />
-  <img src="https://img.shields.io/badge/-Express-&?style=for-the-badge&logo=express&color=black" alt="Express logo" />
-  <img src="https://img.shields.io/badge/-C-&?style=for-the-badge&logo=c&color=black" alt="C Logo" />
-  <img src="https://img.shields.io/badge/-Java-&?style=for-the-badge&logo=java&color=black&logoColor=EB231F" alt="Java logo" />
-  <img src="https://img.shields.io/badge/-Github-&?style=for-the-badge&logo=github&color=black" alt="Github logo" />
-  <img src="https://img.shields.io/badge/-Git-&?style=for-the-badge&logo=git&color=black" alt="Git logo" />
-  <img src="https://img.shields.io/badge/-Heroku-&?style=for-the-badge&logo=heroku&color=black&logoColor=79589F" alt="Heroku logo" />
-  <img src="https://img.shields.io/badge/-Vercel-&?style=for-the-badge&logo=vercel&color=black" alt="Vercel logo" />
-  <img src="https://img.shields.io/badge/-VSCode-&?style=for-the-badge&logo=visualstudiocode&color=black&logoColor=0076C6" alt="Visual studio code logo" />
-</div>
+---
 
-<h2 align="center">My github stats 📊<h2>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" width:"350px" src="https://github-readme-stats.vercel.app/api?username=EduardoVedooto&show_icons=true&hide_border=true&theme=nord&bg_color=22272E&hide_rank=true" alt="Github Stats"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+# 🧰 Stack
+## Linguagens e Frameworks 
+![](https://img.shields.io/badge/React-404040?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Next-404040?style=for-the-badge&logo=nextdotjs)
+![](https://img.shields.io/badge/Typescript-404040?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/Javascript-404040?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/HTML-404040?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/CSS-404040?style=for-the-badge&logo=csswizardry)
+![](https://img.shields.io/badge/nodejs-404040?style=for-the-badge&logo=nodedotjs)
+![](https://img.shields.io/badge/jest-404040?style=for-the-badge&logo=jest)
+![](https://img.shields.io/badge/postgres-404040?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/express-404040?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/c-404040?style=for-the-badge&logo=c)
+![](https://img.shields.io/badge/Java-404040?style=for-the-badge)
+![](https://img.shields.io/badge/Kotlin-404040?style=for-the-badge&logo=kotlin)
+![](https://img.shields.io/badge/tailwind-404040?style=for-the-badge&logo=tailwindcss)
+![](https://img.shields.io/badge/styled--components-404040?style=for-the-badge&logo=styledcomponents)
+![](https://img.shields.io/badge/MongoDB-404040?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/rest%20api-404040?style=for-the-badge)
+![](https://img.shields.io/badge/jwt-404040?style=for-the-badge&logo=jsonwebtokens)
+![](https://img.shields.io/badge/prisma-404040?style=for-the-badge&logo=prisma)
+
+## DevOps e ferramentas
+![](https://img.shields.io/badge/github-404040?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/git-404040?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/vercel-404040?style=for-the-badge&logo=vercel)
+![](https://img.shields.io/badge/vscode-404040?style=for-the-badge)
+![](https://img.shields.io/badge/docker-404040?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/figma-404040?style=for-the-badge&logo=figma)
+![](https://img.shields.io/badge/trello-404040?style=for-the-badge&logo=trello)
+![](https://img.shields.io/badge/postman-404040?style=for-the-badge&logo=postman)
+![](https://img.shields.io/badge/Android%20Studio-404040?style=for-the-badge&logo=androidstudio)
+![](https://img.shields.io/badge/ESLint-404040?style=for-the-badge&logo=eslint)
+![](https://img.shields.io/badge/CI%2FCD-404040?style=for-the-badge&logo=githubactions)
+
+---
+
+# 🎯 Objetivo
+Atuar como **desenvolvedor fullstack**, contribuindo em projetos reais com foco em qualidade e clareza.
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVedooto&layout=compact&hide_border=true&theme=nord&bg_color=22272E&card_width=250" alt="Languages" />
   </a>
 </div>
 
-<h2 align="center">Let's connect and chat 💬</h2>
-  <div align="center">
+---
+# Redes Sociais
+<div>
   <a href="https://www.linkedin.com/in/eduardovedooto/">
-    <img height="25px" src="https://img.shields.io/badge/-Linkedin-&?style=flat-square&logo=linkedin&color=0073B1&labelColor=0073B1&logoColor=white" alt="Linkedin logo" />
+    <img src="https://img.shields.io/badge/Linkedin-0077b5?style=plastic&logo=linkedin" alt="Badge">  
   </a>
   <a href="https://www.instagram.com/ervedooto/">
-    <img height="25px" src="https://img.shields.io/badge/-Instagram-&?style=flat-square&logo=instagram&color=D10063&labelColor=D10063&logoColor=white" alt="Instagram logo" />
-  </a>   
-  <a href="https://www.facebook.com/EduardoVedooto">
-    <img height="25px" src="https://img.shields.io/badge/-Facebook-&?style=flat-square&logo=facebook&color=4267B2&labelColor=4267B2&logoColor=white" alt="Facebook logo" />
+    <img src="https://img.shields.io/badge/Instagram-dd2a7b?style=plastic&logo=linkedin" alt="Badge">
   </a>
 </div>
 
-<!--
-**EduardoVedooto/EduardoVedooto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<details>
+  <summary><strong>English Version</strong></summary>
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1 align="center">Eduardo</h1>
+  <p align="center">Fullstack Web Developer</p>
+
+  I’m a fullstack web developer who enjoys technology and likes to stay up to date with what’s trending in the programming world. I’m also really into games and cats 🕹️🐈
+
+  
+  - 🎓 **Degree:** Systems Analysis and Development  
+  - 📚 **Currently learning:** Kotlin  
+  - 👦 **Pronouns:** He/Him  
+  - 📧 **Contact:** [vedootoeduardo@gmail.com](mailto:vedootoeduardo@gmail.com)
+
+  ---
+
+  # 🧰 Stack
+  ## Languages and Frameworks 
+  ![](https://img.shields.io/badge/React-404040?style=for-the-badge&logo=react)
+  ![](https://img.shields.io/badge/Next-404040?style=for-the-badge&logo=nextdotjs)
+  ![](https://img.shields.io/badge/Typescript-404040?style=for-the-badge&logo=typescript)
+  ![](https://img.shields.io/badge/Javascript-404040?style=for-the-badge&logo=javascript)
+  ![](https://img.shields.io/badge/HTML-404040?style=for-the-badge&logo=html5)
+  ![](https://img.shields.io/badge/CSS-404040?style=for-the-badge&logo=csswizardry)
+  ![](https://img.shields.io/badge/nodejs-404040?style=for-the-badge&logo=nodedotjs)
+  ![](https://img.shields.io/badge/jest-404040?style=for-the-badge&logo=jest)
+  ![](https://img.shields.io/badge/postgres-404040?style=for-the-badge&logo=postgresql)
+  ![](https://img.shields.io/badge/express-404040?style=for-the-badge&logo=postgresql)
+  ![](https://img.shields.io/badge/c-404040?style=for-the-badge&logo=c)
+  ![](https://img.shields.io/badge/Java-404040?style=for-the-badge)
+  ![](https://img.shields.io/badge/Kotlin-404040?style=for-the-badge&logo=kotlin)
+  ![](https://img.shields.io/badge/tailwind-404040?style=for-the-badge&logo=tailwindcss)
+  ![](https://img.shields.io/badge/styled--components-404040?style=for-the-badge&logo=styledcomponents)
+  ![](https://img.shields.io/badge/MongoDB-404040?style=for-the-badge&logo=mongodb)
+  ![](https://img.shields.io/badge/rest%20api-404040?style=for-the-badge)
+  ![](https://img.shields.io/badge/jwt-404040?style=for-the-badge&logo=jsonwebtokens)
+  ![](https://img.shields.io/badge/prisma-404040?style=for-the-badge&logo=prisma)
+  
+  ## DevOps and tools
+  ![](https://img.shields.io/badge/github-404040?style=for-the-badge&logo=github)
+  ![](https://img.shields.io/badge/git-404040?style=for-the-badge&logo=git)
+  ![](https://img.shields.io/badge/vercel-404040?style=for-the-badge&logo=vercel)
+  ![](https://img.shields.io/badge/vscode-404040?style=for-the-badge)
+  ![](https://img.shields.io/badge/docker-404040?style=for-the-badge&logo=docker)
+  ![](https://img.shields.io/badge/figma-404040?style=for-the-badge&logo=figma)
+  ![](https://img.shields.io/badge/trello-404040?style=for-the-badge&logo=trello)
+  ![](https://img.shields.io/badge/postman-404040?style=for-the-badge&logo=postman)
+  ![](https://img.shields.io/badge/Android%20Studio-404040?style=for-the-badge&logo=androidstudio)
+  ![](https://img.shields.io/badge/ESLint-404040?style=for-the-badge&logo=eslint)
+  ![](https://img.shields.io/badge/CI%2FCD-404040?style=for-the-badge&logo=githubactions)
+
+  ---
+
+  ### 🎯 Goal
+  Work as a fullstack developer, contributing to real-world projects with a strong focus on quality and clarity.
+</details>
