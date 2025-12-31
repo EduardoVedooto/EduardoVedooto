@@ -11,7 +11,7 @@ Sou um desenvolvedor web fullstack que ama tecnologia e gosta bastante de estar 
 ---
 
 # 🧰 Stack
-## Linguagens e Frameworks 
+## Linguagens e *Frameworks* 
 ![](https://img.shields.io/badge/React-404040?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Next-404040?style=for-the-badge&logo=nextdotjs)
 ![](https://img.shields.io/badge/Typescript-404040?style=for-the-badge&logo=typescript)
@@ -32,7 +32,7 @@ Sou um desenvolvedor web fullstack que ama tecnologia e gosta bastante de estar 
 ![](https://img.shields.io/badge/jwt-404040?style=for-the-badge&logo=jsonwebtokens)
 ![](https://img.shields.io/badge/prisma-404040?style=for-the-badge&logo=prisma)
 
-## DevOps e ferramentas
+## *DevOps* e Ferramentas
 ![](https://img.shields.io/badge/github-404040?style=for-the-badge&logo=github)
 ![](https://img.shields.io/badge/git-404040?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/vercel-404040?style=for-the-badge&logo=vercel)
@@ -109,7 +109,7 @@ Atuar como **desenvolvedor fullstack**, contribuindo em projetos reais com foco 
   ![](https://img.shields.io/badge/jwt-404040?style=for-the-badge&logo=jsonwebtokens)
   ![](https://img.shields.io/badge/prisma-404040?style=for-the-badge&logo=prisma)
   
-  ## DevOps and tools
+  ## DevOps and Tools
   ![](https://img.shields.io/badge/github-404040?style=for-the-badge&logo=github)
   ![](https://img.shields.io/badge/git-404040?style=for-the-badge&logo=git)
   ![](https://img.shields.io/badge/vercel-404040?style=for-the-badge&logo=vercel)
