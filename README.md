@@ -51,13 +51,6 @@ Sou um desenvolvedor web fullstack que ama tecnologia e gosta bastante de estar 
 Atuar como **desenvolvedor fullstack**, contribuindo em projetos reais com foco em qualidade e clareza.
 
 ---
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVedooto&layout=compact&hide_border=true&theme=nord&bg_color=22272E&card_width=250" alt="Languages" />
-  </a>
-</div>
-
----
 # Redes Sociais
 <div>
   <a href="https://www.linkedin.com/in/eduardovedooto/">
